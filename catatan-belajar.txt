@@ -1,0 +1,6 @@
+Catatan Belajar GitHub
+
+1. Repository adalah tempat menyimpan proyek.
+2. README menjelaskan isi proyek.
+3. Commit mencatat perubahan yang disimpan.
+4. GitHub membantu kita bekerja sama dalam proyek.
